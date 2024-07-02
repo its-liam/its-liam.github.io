@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.its-liam" name="Tubsy's Repo" version="1.0" provider-name="its-liam">
+    <extension point="xbmc.addon.repository" name="Example Repository">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/its-liam/repository.its-liam/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/its-liam/repository.its-liam/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/its-liam/repository.its-liam/master/repo/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Tubsy's Repo</summary>
+        <description>A Kodi repo for my friends and family.</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>tony.png</icon>
+            <fanart>art.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
