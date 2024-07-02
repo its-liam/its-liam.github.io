@@ -14,7 +14,7 @@
         <platform>all</platform>
         <assets>
             <icon>tony.png</icon>
-            <fanart>fanart.jpg</fanart>
+            <fanart>art.jpg</fanart>
         </assets>
     </extension>
 </addon>
